@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sowmiya_Cart/static/css/main.6c59c9ff.css",
+    "main.js": "/Sowmiya_Cart/static/js/main.1d0e0f0b.js",
+    "static/js/453.b2482a81.chunk.js": "/Sowmiya_Cart/static/js/453.b2482a81.chunk.js",
+    "index.html": "/Sowmiya_Cart/index.html",
+    "main.6c59c9ff.css.map": "/Sowmiya_Cart/static/css/main.6c59c9ff.css.map",
+    "main.1d0e0f0b.js.map": "/Sowmiya_Cart/static/js/main.1d0e0f0b.js.map",
+    "453.b2482a81.chunk.js.map": "/Sowmiya_Cart/static/js/453.b2482a81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c59c9ff.css",
+    "static/js/main.1d0e0f0b.js"
+  ]
+}
